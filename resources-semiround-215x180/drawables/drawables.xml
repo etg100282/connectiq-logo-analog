@@ -3,9 +3,19 @@
 	<bitmap id="Background" filename="background.png">
         <palette disableTransparency="true">
             <color>000000</color>
-            <color>FFFFFF</color>
-            <color>AAAAAA</color>
+            <color>0000FF</color>
+            <color>00AA00</color>
+            <color>00AAFF</color>
+            <color>00FF00</color>
             <color>555555</color>
+            <color>AA0000</color>
+            <color>AA00FF</color>
+            <color>AAAAAA</color>
+            <color>FF0000</color>
+            <color>FF00FF</color>
+            <color>FF5500</color>
+            <color>FFAA00</color>
+            <color>FFFFFF</color>
         </palette>
     </bitmap>
 </drawables>
